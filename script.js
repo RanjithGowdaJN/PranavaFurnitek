@@ -5,19 +5,19 @@ document.addEventListener('DOMContentLoaded', function () {
             image: "1.jpg",
             customer: "Rahul & Priya",
             location: "HSR Layout, Bangalore",
-            testimonial: "Pranava Furnitek completely transformed our kitchen into a modern masterpiece. Their attention to detail and innovative design truly exceeded our expectations."
+            testimonial: "Pranava Furnitek completely transformed our living room into a modern masterpiece. Their attention to detail and innovative design truly exceeded our expectations."
         },
         {
             image: "2.jpg",
             customer: "Amit & Sneha",
             location: "Indiranagar, Bangalore",
-            testimonial: "We were amazed by the professional approach and exceptional craftsmanship of Pranava Furnitek. Our bedroom now feels like a luxurious retreat."
+            testimonial: "We were amazed by the professional approach and exceptional craftsmanship of Pranava Furnitek. Our study room now feels like a luxurious retreat."
         },
         {
             image: "3.jpg",
             customer: "Karthik & Deepa",
             location: "Whitefield, Bangalore",
-            testimonial: "The team's creativity and precision in designing our living room were outstanding. Every element was perfectly curated to match our vision."
+            testimonial: "The team's creativity and precision in designing our kitchen were outstanding. Every element was perfectly curated to match our vision."
         },
         {
             image: "4.jpg",
